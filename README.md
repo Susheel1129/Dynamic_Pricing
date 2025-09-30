@@ -2,14 +2,8 @@
 
 ## Table of Contents
 
-1. [Project Overview](#project-overview)
-2. [Key Features](#key-features)
-3. [Folder Structure](#folder-structure)
-4. [Tech Stack](#tech-stack)
-5. [Use Case](#use-case)
-6. [Getting Started](#getting-started)
-7. [License](#license)
-
+ [Project Overview](#project-overview)
+ [Key Features](#key-features)
 ---
 
 ## Project Overview
@@ -18,6 +12,9 @@
 The objective is to **reduce margin leakage** while maintaining or increasing **GMV (Gross Merchandise Value)**. Using **simulated data** that reflects **seasonality, category-specific price elasticity, and margin constraints**, the project delivers **actionable insights** for informed decision-making.
 
 ---
+## Dashboard 
+<img width="1918" height="1176" alt="image" src="https://github.com/user-attachments/assets/d831d576-03b7-4dba-ba72-fa3c22480472" />
+
 
 ## Key Features
 
